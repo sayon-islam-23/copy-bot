@@ -38,7 +38,7 @@ recognition.addEventListener("result", (e) => {
       p.innerText = "opening youtube ";
       texts.appendChild(p);
       console.log("opening youtube");
-      window.open("https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ");
+      window.open("https://www.youtube.comQ");
     }
     if (text.includes("open Google")) {
         p = document.createElement("p");
